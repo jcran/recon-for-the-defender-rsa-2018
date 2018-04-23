@@ -1,0 +1,145 @@
+11588331   
+ 921  Linux 2.6.18 - 2.6.22 
+ 919  Citrix NetScaler load balancer 
+ 656  Linux 3.2 - 3.6 
+ 492  OpenBSD 4.0 
+ 439  FreeBSD 6.2-RELEASE 
+ 159  AVtech Room Alert 26W environmental monitor 
+ 138  HP 4000M ProCurve switch (J4121A) 
+ 136  iPXE 1.0.0+ 
+  98  Linux 2.6.32 - 2.6.39 
+  96  Microsoft Windows 7 Professional 
+  81  Microsoft Windows Server 2008 Beta 3 
+  79  Cisco ACE load balancer 
+  71  Linux 2.6.32 
+  66  Linux 2.6.32 - 2.6.35 
+  54  Microsoft Windows Server 2008 R2 or Windows 8 
+  50  Linux 2.6.18 
+  49  Linux 3.2.0 
+  41  Microsoft Windows Server 2008 R2 
+  41  D-Link DWL-624+ or DWL-2000AP; or TRENDnet TEW-432BRP WAP 
+  33  OpenBSD 4.3 
+  29  Linux 3.4 
+  28  F5 BIG-IP 3650 Local Traffic Manager load balancer 
+  26  Microsoft Windows Vista SP0 or SP1; Windows Server 2008 SP1; or Windows 7 
+  26  Lexmark Z2400 printer 
+  21  Linux 3.5 
+  21  IPFire firewall 2.11 (Linux 2.6.32) 
+  17  Juniper SA4000 SSL VPN gateway (IVE OS 7.0) 
+  14  Sun Solaris 10 
+  14  OpenWrt Kamikaze 7.09 (Linux 2.6.22) 
+  14  HP HP-UX B.11.11 - B.11.23 
+  13  Microsoft Windows Server 2003 SP1 
+  13  Linux 2.6.32 - 3.0 
+  12  FreeBSD 6.3-RELEASE 
+  11  Tomato 1.28 (Linux 2.4.20) 
+  11  Microsoft Windows Server 2008 SP1 
+  11  FreeBSD 7.0-RELEASE-p5 
+  10  OpenWrt (Linux 2.4.32) 
+  10  Linksys BEFSR41 EtherFast router 
+  10  Cisco 870; 2821; 6506; or 7206VXR router (IOS 12.2 - 15.1) 
+  10  Apple iOS 4.3.1 - 4.3.5 
+   9  Netopia 3386 ADSL router 
+   9  Microsoft Windows Server 2003 SP2 
+   9  Linux 2.6.9 - 2.6.27 
+   9  Linux 2.6.24 
+   9  Linux 2.6.15 - 2.6.26 (likely embedded) 
+   9  Cisco Unified Communications Manager VoIP adapter 
+   8  Linux 2.6.9 - 2.6.18 
+   7  Microsoft Windows 7 SP1 
+   7  3Com 5500-EI switch 
+   6  Netasq U70 firewall 
+   6  Linux 3.0 - 3.2 
+   6  Linux 2.6.23 
+   6  F5 BIG-IP load balancer 
+   6  2Wire 2700HG-B wireless ADSL modem 
+   5  Tomato 1.27 - 1.28 (Linux 2.4.20) 
+   5  Microsoft Windows Vista SP2; Windows 7 SP1; or Windows Server 2008 
+   5  Microsoft Windows Phone 7.5 
+   5  Microsoft Windows 7 SP1 or Windows Server 2008 SP1 - SP2 
+   5  Linux 3.1.9 
+   5  Linux 2.6.39 
+   5  Kyocera InterCon print server 
+   5  Endian 2.3 or IPCop firewall 1.4.10 - 1.4.21 (Linux 2.4.31 - 2.6.22) 
+   4  Microsoft Zune audio player (firmware 3.1) 
+   4  Microsoft Windows Server 2003 SP1 or SP2 
+   4  Linux 2.6.35 
+   4  Linux 2.6.32 - 2.6.33 
+   4  Linksys NAS200 NAS device 
+   4  Juniper Networks SSG 20 firewall 
+   4  F5 BIG-IP Local Traffic Manager load balancer 
+   4  Acorp W400G or W422G wireless ADSL modem (MontaVista embedded Linux 2.4.17) 
+   3  Sun Solaris 8 (SPARC) 
+   3  Microsoft Windows Server 2003 
+   3  Linux 3.2.1 
+   3  Efficient Networks SpeedStream 4100 ADSL router 
+   3  DD-WRT v24-sp2 (Linux 2.4.36) 
+   3  Cisco Adaptive Security Appliance (PIX OS 7.2) 
+   3  Cisco 3650 switch 
+   3  Adtran NetVanta 1224R router 
+   2  WatchGuard FireBox 500 firewall 
+   2  Ubiquiti AirMax NanoStation WAP (Linux 2.6.32) 
+   2  Tandberg VCS video conferencing system 
+   2  SGI IRIX64 6.5 
+   2  OpenWrt Kamikaze 8.09 (Linux 2.6.25.20) 
+   2  Newave UPS SNMP adapter 
+   2  Microsoft Windows Vista Home Premium SP1 
+   2  Linux 2.6.9 
+   2  Linux 2.6.8 (Debian; x86) 
+   2  Linux 2.6.31 
+   2  Linux 2.6.30 
+   2  Linux 2.6.29 
+   2  Linux 2.6.28 
+   2  Linux 2.4.21 (embedded) 
+   2  ISS Proventia GX3002 firewall (Linux 2.4.18) 
+   2  IBM AIX 5.3 
+   2  Fuji DryPix medical imager (Microsoft Windows XP Embedded) 
+   2  FreeBSD 9.0-RELEASE 
+   2  FreeBSD 5.5-RELEASE 
+   2  Cymphonix EX550 firewall 
+   2  Cisco IP Phone 7941 
+   2  Cisco 2811 router (IOS 12.X) 
+   2  Check Point VPN-1 firewall (Linux 2.6.18) 
+   2  Avaya Office IP403 VoIP adapter 
+   2  Apple iOS 4.1 - 4.2.1 
+   2  AirSpan ProST WiMAX access point 
+   2  AT&T NetGate SG8100 router 
+   1  ZyXEL ZyWALL 70 firewall (ZyNOS 3.65) 
+   1  Vonage V-Portal VoIP adapter 
+   1  VMware ESXi Server 4.0 
+   1  VMware ESXi Server 3.5 
+   1  Sun OpenSolaris 2009.06 
+   1  Sony PCS-TL30 video conferencing system 
+   1  Polycom MGC-25 videoconferencing system (pSOS 1.0.4) 
+   1  OpenWrt (Linux 3.3) 
+   1  Motorola RFS 6000 wireless switch 
+   1  Minix 2.0.4 
+   1  Microsoft Windows XP SP2 
+   1  Microsoft Windows Server 2008 SP1 or Windows 8 
+   1  Microsoft Windows Server 2003 SP0 - SP2 
+   1  Lorex Security DVR 
+   1  Linux 3.0 - 3.1 
+   1  Linux 2.6.5 
+   1  Linux 2.6.32 - 3.9 
+   1  Linux 2.6.22 
+   1  Linksys WRT54G v8 wireless broadband router 
+   1  IPCop 1.9.19 or IPFire firewall 2.9 (Linux 2.6.32) 
+   1  Genua GeNUGate Firewall 7.0 (OpenBSD 4.6) 
+   1  FreeBSD 8.1 
+   1  FreeBSD 8.0-RC1-p1 
+   1  FreeBSD 7.1-PRERELEASE 7.2-STABLE 
+   1  Fortinet FortiGate-60B or -100A firewall 
+   1  Fortinet FortiGate-50B or 310B firewall 
+   1  Dell Remote Access Controller 4/I 
+   1  DD-WRT v24-sp1 (Linux 2.4) 
+   1  Citrix Access Gateway VPN gateway 
+   1  Cisco 3550 switch (IOS 12.2) 
+   1  Check Point NGX R65 firewall (IPSO 4.2) 
+   1  Avaya Office IP500 VoIP adapter 
+   1  Apple Mac OS X 10.8.0 - 10.8.3 (Mountain Lion) or iOS 4.4.2 - 6.1.3 (Darwin 11.0.0 - 12.3.0) 
+   1  Apple Mac OS X 10.5 - 10.6.8 (Leopard - Snow Leopard) (Darwin 9.0.0b5 - 10.8.0) or iOS 4.0 - 4.2.1 
+   1  Apple Mac OS X 10.4.10 (Tiger) (Darwin 8.10.0; PowerPC) 
+   1  Apple AirPort Extreme WAP 
+   1  3Com SuperStack 3 Switch 4400 SE 
+   1  3Com OfficeConnect 3CRWER100-75 wireless broadband router 
+   1  2Wire 1701HG wireless ADSL modem 
